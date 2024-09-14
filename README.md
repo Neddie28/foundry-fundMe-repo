@@ -64,3 +64,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+1. Integrations tests ✅
+    1. PIT STOP! How to make running these scripts easier??
+2. Programmatic verification✅
+3. Push to GitHub✅
