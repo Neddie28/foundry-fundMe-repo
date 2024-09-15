@@ -70,3 +70,13 @@ $ cast --help
     1. PIT STOP! How to make running these scripts easier??
 2. Programmatic verification✅
 3. Push to GitHub✅
+
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quickstart
