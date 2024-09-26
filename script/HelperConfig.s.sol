@@ -16,7 +16,7 @@ contract HelperConfig is Script {
         address priceFeed; //ETH/USD price feed address
     }
 
-    NetworkConfig public activeNetworkConfig
+    NetworkConfig public activeNetworkConfig;
 
     constructor() {
         if (block.chainid == 11155111) {
