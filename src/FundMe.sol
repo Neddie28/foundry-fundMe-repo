@@ -6,7 +6,6 @@ import {AggregatorV3Interface} from "@chainlink/contracts/src/v0.8/shared/interf
 import {PriceConverter} from "./PriceConverter.sol";
 
 error FundMe__NotOwner();
-
 contract FundMe {
     //Type Declarations
     using PriceConverter for uint256;
